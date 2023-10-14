@@ -1,0 +1,7 @@
+Int: 2
+Long Long: 1500000000000
+Float: 5.6
+Double: 2.22333e+08
+Cin way string: Hari
+Getline way string:  Hara Sudhan
+Character: /
